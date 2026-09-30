@@ -6,6 +6,7 @@
 1. [100 Thoughts API Models](#100-thoughts-api-models)
 2. [September 2026 Updated Public API Collections](#september-2026-updated-public-api-collections)
 3. [Popular Public API Directories](#popular-public-api-directories)
+4. [Official GitHub API Source Links](#official-github-api-source-links)
 
 ---
 
@@ -192,6 +193,25 @@ Here are notable updates and new/updated public API resources from September 202
 - [RapidAPI Hub](https://rapidapi.com/hub)
 - [Postman Public API Network](https://www.postman.com/explore)
 - [APILayer](https://apilayer.com)
+
+---
+
+## Official GitHub API Source Links
+
+Official documentation and resources for GitHub's APIs:
+
+| Resource | Link | Description |
+|----------|------|-------------|
+| **REST API Docs** | [docs.github.com/en/rest](https://docs.github.com/en/rest) | Complete REST API reference |
+| **GraphQL API Docs** | [docs.github.com/en/graphql](https://docs.github.com/en/graphql) | GraphQL API reference & explorer |
+| **GitHub Apps** | [docs.github.com/en/apps](https://docs.github.com/en/apps) | Building & authenticating GitHub Apps |
+| **Webhooks** | [docs.github.com/en/webhooks](https://docs.github.com/en/webhooks) | Webhook events & payloads |
+| **Authentication** | [docs.github.com/en/authentication](https://docs.github.com/en/authentication) | Tokens, OAuth, SSH keys, etc. |
+| **API Overview** | [docs.github.com/en/rest/about-the-rest-api](https://docs.github.com/en/rest/about-the-rest-api) | Getting started with the REST API |
+| **Rate Limits** | [docs.github.com/en/rest/using-the-rest-api/rate-limits-for-the-rest-api](https://docs.github.com/en/rest/using-the-rest-api/rate-limits-for-the-rest-api) | Understanding rate limits |
+| **GitHub Status** | [githubstatus.com](https://www.githubstatus.com/) | Real-time API & service status |
+| **OpenAPI Spec** | [github.com/github/rest-api-description](https://github.com/github/rest-api-description) | Official OpenAPI descriptions |
+| **GraphQL Schema** | [docs.github.com/en/graphql/overview/public-schema](https://docs.github.com/en/graphql/overview/public-schema) | Public GraphQL schema |
 
 ---
 
